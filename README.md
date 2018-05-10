@@ -1,6 +1,7 @@
 # applied_economics_projects
 
-I have uploaded a few projects that I worked on as a Master's student. Please feel free to enjoy. 
+I have uploaded a few projects that I worked on as a Master's student in applied economics and finance. 
+Please feel free to enjoy. 
 
 - The Effect of Credit Availability on Small Business Success Presentation
 - The Effect of Exchange Rate on Foreign Direct Investment Presentation
