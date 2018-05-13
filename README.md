@@ -1,6 +1,6 @@
 # applied_economics_projects
 
-I have uploaded some projects from my time as a Master's student in applied economics and finance. 
+Projects from my time as a Master's student in applied economics and finance. 
 Please feel free to enjoy. 
 
 - The Effect of Credit Availability on Small Business Success Presentation
