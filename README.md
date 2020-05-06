@@ -1,4 +1,5 @@
-# applied_economics_projects
+# Applied Economics Projects
+## By: James Chiu
 
 Projects from my time as a UCSC Master's student in applied economics and finance. 
 
